@@ -34,6 +34,6 @@ Training on Middlebury noisy depth maps, you can use the following code to prepr
 ## Citation 
 If you find this code useful, please cite:
 
-` Xinchen Ye* et al., PMBANet: Progressive Multi-Branch Aggregation Network for Scene Depth Super-Resolution, Submitted to Pattern Recognition, Major revision. `
+` Xinchen Ye* et al., PMBANet: Progressive Multi-Branch Aggregation Network for Scene Depth Super-Resolution, Submitted to IEEE Trans. Image Processing, Major revision. `
 
 
