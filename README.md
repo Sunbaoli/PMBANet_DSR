@@ -31,6 +31,9 @@ Training on Middlebury noisy depth maps, you can use the following code to prepr
 
 ## Test
 ` python test.py `
+
+## pretrained models
+The pretrained models can be download here. link: https://pan.baidu.com/s/1tFEX0yjUq3srop378Z1WMA pwd: b2ec. 
 ## Citation 
 If you find this code useful, please cite:
 
