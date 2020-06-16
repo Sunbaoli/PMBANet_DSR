@@ -19,9 +19,9 @@ The code supports Python 3
 
 PyTorch (>= 1.1.0)
 
-## Download trained models
+## Download pretrained models
 
-Download the pretrained model from the Google Drive Folder
+Download the pretrained model from the Baidu Drive Folder. Link: https://pan.baidu.com/s/1tFEX0yjUq3srop378Z1WMA, pwd: b2ec.
 ## Train
 ` pthon train.py `
 
@@ -32,8 +32,6 @@ Training on Middlebury noisy depth maps, you can use the following code to prepr
 ## Test
 ` python test.py `
 
-## pretrained models
-The pretrained models can be download here. link: https://pan.baidu.com/s/1tFEX0yjUq3srop378Z1WMA pwd: b2ec. 
 ## Citation 
 If you find this code useful, please cite:
 
