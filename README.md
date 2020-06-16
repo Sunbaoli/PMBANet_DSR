@@ -25,10 +25,6 @@ Download the pretrained model from the Baidu netdisk folder. Link: https://pan.b
 ## Train
 ` pthon train.py `
 
-Training on Middlebury noisy depth maps, you can use the following code to preproccess training data (Matlab):
-
-` im_depth=imnoise(im_depth,'gaussian',0,(5/255)^2);noisy_depth=im_depth; `
-
 ## Test
 ` python test.py `
 
