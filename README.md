@@ -21,7 +21,7 @@ PyTorch (>= 1.1.0)
 
 ## Download pretrained models
 
-Download the pretrained model from the Baidu netdisk folder. Link: https://pan.baidu.com/s/1tFEX0yjUq3srop378Z1WMA, pwd: b2ec.
+Download the pretrained model from the Baidu netdisk folder. Link: https://pan.baidu.com/s/1TW9qat987k12iToRYJwPZQ, pwd: 0z16.
 ## Train
 ` pthon train.py `
 
